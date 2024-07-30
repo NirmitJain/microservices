@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to sample Banl loans related Prod APIs"
+  contactDetails:
+    name: "Manak - Product Owner"
+    email: "manak@samplebank.com"
+
+  onCallSupport:
+    -(555) 667-1231
+    -(555) 667-2340

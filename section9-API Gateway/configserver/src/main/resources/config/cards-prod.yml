@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to sample Banl accounts related Prod APIs"
+  contactDetails:
+    name: "Manas - Manager"
+    email: "manas@samplebank.com"
+
+  onCallSupport:
+    -(555) 765-1231
+    -(555) 765-2340

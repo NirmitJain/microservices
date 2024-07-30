@@ -1,0 +1,12 @@
+build:
+  version: "6.0"
+
+accounts:
+  message: "Welcome to sample Bank loans related Prod APIs"
+  contactDetails:
+    name: "Suhas - Manager"
+    email: "suhas@samplebank.com"
+
+  onCallSupport:
+    -(555) 756-1231
+    -(555) 756-2340

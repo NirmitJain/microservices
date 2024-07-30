@@ -1,0 +1,12 @@
+build:
+  version: "3.l"
+
+loans:
+  message: "Welcome to sample Bank Loans related local APIs"
+  contactDetails:
+    name: "Mark- Developer"
+    email: "mark@samplebank.com"
+
+  onCallSupport:
+    -(555) 667-1234
+    -(555) 667-2344

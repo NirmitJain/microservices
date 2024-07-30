@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to sample Bank accounts related local APIs"
+  contactDetails:
+    name: "John Doe- Developer"
+    email: "john@samplebank.com"
+
+  onCallSupport:
+    -(555) 666-1234
+    -(555) 666-2344

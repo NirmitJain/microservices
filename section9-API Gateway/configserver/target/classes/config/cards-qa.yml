@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to sample Banl accounts related QA APIs"
+  contactDetails:
+    name: "Shilpa - QA Lead"
+    email: "shilpa@samplebank.com"
+
+  onCallSupport:
+    -(555) 234-1234
+    -(555) 234-2346
