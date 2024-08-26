@@ -1,0 +1,12 @@
+build:
+  version: "4.0"
+
+accounts:
+  message: "Welcome to sample Bank loans related qa APIs"
+  contactDetails:
+    name: "Shilpi - QA Lead"
+    email: "shilpi@samplebank.com"
+
+  onCallSupport:
+    -(555) 232-1234
+    -(555) 232-2346

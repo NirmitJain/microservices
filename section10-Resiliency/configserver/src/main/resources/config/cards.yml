@@ -1,0 +1,12 @@
+build:
+  version: "1.5"
+
+cards:
+  message: "Welcome to sample Bank accounts related local APIs"
+  contactDetails:
+    name: "Ritesh- Developer"
+    email: "ritesh@samplebank.com"
+
+  onCallSupport:
+    -(555) 656-1234
+    -(555) 656-2344
