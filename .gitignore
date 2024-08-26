@@ -1,3 +1,12 @@
 
 *.class
 *.class
+/section10-Resiliency/accounts/target
+/section10-Resiliency/cards/target/jib-cache
+/section10-Resiliency/configserver/target/jib-cache/layers
+/section10-Resiliency/configserver/target/jib-cache/selectors
+/section10-Resiliency/loans/target/surefire-reports
+/section10-Resiliency/loans/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile
+/section10-Resiliency/loans/target
+/section10-Resiliency/gatewayserver/target
+/section10-Resiliency/eurekaserver/target
