@@ -1,0 +1,5 @@
+/Users/nirmit/workspace/microservices/section11-Log aggregation/gatewayserver/src/main/java/com/eazybytes/gatewayserver/GatewayServerApplication.java
+/Users/nirmit/workspace/microservices/section11-Log aggregation/gatewayserver/src/main/java/com/eazybytes/gatewayserver/controller/FallbackController.java
+/Users/nirmit/workspace/microservices/section11-Log aggregation/gatewayserver/src/main/java/com/eazybytes/gatewayserver/filters/FilterUtility.java
+/Users/nirmit/workspace/microservices/section11-Log aggregation/gatewayserver/src/main/java/com/eazybytes/gatewayserver/filters/RequestTraceFilter.java
+/Users/nirmit/workspace/microservices/section11-Log aggregation/gatewayserver/src/main/java/com/eazybytes/gatewayserver/filters/ResponseTraceFilter.java
