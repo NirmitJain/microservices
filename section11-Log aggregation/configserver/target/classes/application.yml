@@ -13,12 +13,12 @@ spring:
        git:
 #         uri: "https://github.com/eazybytes/eazybytes-config.git"
          uri: "https://github.com/NirmitJain/eazybytes-config.git"
+         username: 'nirmitjain'
+         password: 'GitPass@@80'
          default-label: main #branch name in git
-         timeout: 5 # in seconds
+         timeout: 10 # in seconds
          clone-on-start: true # clone the gothub repo in local startup
          force-pull: true
-
-
 management:
   endpoints:
     web:
