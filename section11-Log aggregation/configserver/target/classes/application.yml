@@ -22,7 +22,7 @@ spring:
 management:
   endpoints:
     web:
-      expose:
+      exposure:
         include: "*"
   health:
     readiness-state:
